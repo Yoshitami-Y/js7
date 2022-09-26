@@ -1,14 +1,13 @@
 {
   "version" : "1.4.0",
-  "workflowNames" : [ "HelloWorldRunningLog" ],
-  "title" : "aaaa",
+  "workflowNames" : [ "HelloWorldRunningLog-copy1" ],
   "submitOrderToControllerWhenPlanned" : true,
   "planOrderAutomatically" : true,
   "calendars" : [ {
     "calendarName" : "caren",
     "timeZone" : "Asia/Tokyo",
     "periods" : [ {
-      "singleStart" : "15:00:00",
+      "singleStart" : "11:30:00",
       "whenHoliday" : "SUPPRESS"
     } ]
   } ],
