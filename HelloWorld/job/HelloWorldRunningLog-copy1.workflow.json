@@ -20,6 +20,7 @@
       "parallelism" : 1,
       "graceTimeout" : 15,
       "failOnErrWritten" : false,
+      "warnOnErrWritten" : false,
       "title" : "Write log output for running log",
       "warnIfLonger" : "10"
     }
