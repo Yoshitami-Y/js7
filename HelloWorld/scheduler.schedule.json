@@ -8,7 +8,7 @@
     "calendarName" : "caren",
     "timeZone" : "Asia/Tokyo",
     "periods" : [ {
-      "singleStart" : "10:30:00",
+      "singleStart" : "11:00:00",
       "whenHoliday" : "SUPPRESS"
     } ]
   } ],
