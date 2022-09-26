@@ -1,0 +1,9 @@
+{
+  "version" : "1.4.0",
+  "workflowNames" : [ "HelloWorldRunningLog" ],
+  "title" : "aaaa",
+  "submitOrderToControllerWhenPlanned" : false,
+  "planOrderAutomatically" : false,
+  "calendars" : [ ],
+  "orderParameterisations" : [ ]
+}
