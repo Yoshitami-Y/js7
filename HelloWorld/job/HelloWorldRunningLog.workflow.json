@@ -1,6 +1,6 @@
 {
   "TYPE" : "Workflow",
-  "version" : "1.1.0",
+  "version" : "1.5.3",
   "timeZone" : "Asia/Tokyo",
   "title" : "Hello World example for a running logaaa",
   "instructions" : [ {
@@ -10,7 +10,7 @@
   } ],
   "jobs" : {
     "job-running-log" : {
-      "agentName" : "primaryAgent",
+      "agentName" : "localhost",
       "withSubagentClusterIdExpr" : false,
       "executable" : {
         "TYPE" : "ShellScriptExecutable",
